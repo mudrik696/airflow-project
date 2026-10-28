@@ -16,7 +16,7 @@
 
 ---
 
-Proyek ini membangun **data pipeline cuaca kota Surabaya** di atas Apache Airflow, mulai dari DAG ETL sederhana hingga **sistem observability yang lengkap**: logging terpusat ke PostgreSQL, alerting otomatis via email, dan UI kustom untuk menangani task yang gagal.
+Proyek ini membangun **data pipeline cuaca kota Surabaya** di atas Apache Airflow, mulai dari DAG ETL sederhana hingga **sistem observability yang lengkap** dengan logging yang terpusat ke PostgreSQL, alerting otomatis via email, dan UI kustom untuk menangani task yang gagal.
 
 Fokus utamanya bukan sekadar "membuat pipeline yang jalan", melainkan menjawab pertanyaan yang jauh lebih penting di dunia *data engineering*:
 
